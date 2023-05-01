@@ -16,7 +16,7 @@
     align-self: center;
     flex-direction: column;
     background-color: white;
-    height: 100%;
+   
 }
 
 .squarerow{
@@ -38,7 +38,7 @@ margin: 0 -0.7px;
 img {
     width: 100%;
     object-fit: cover;
-    
+    height: 97%; 
 }
 
 .btn {
